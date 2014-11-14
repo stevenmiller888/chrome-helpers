@@ -6,7 +6,7 @@ A nicer way to work with chrome extension API methods
 ## Examples
 
 ```js
-var helper = require('segmentio/extension-helper')();
+var helper = require('stevenmiller888/extension-helper')();
 helper.inject('index.js', 1);
 ```
 
