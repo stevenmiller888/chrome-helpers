@@ -1,0 +1,9 @@
+{
+  "name": "extension-helper",
+  "description": "Wrappers for chrome extension API methods",
+  "repository": "git://github.com/stevenmiller888/extension-helper.git",
+  "license": "MIT",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {}
+}
