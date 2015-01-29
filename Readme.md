@@ -1,5 +1,5 @@
 
-# ExtensionHelper
+# Chrome Extension Helpers
 
 A nicer way to work with chrome extension API methods
 
